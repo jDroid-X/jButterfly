@@ -6,12 +6,13 @@ Enterprise-grade spatial synchronization, real-time family mesh tracking, geofen
 
 ## 📦 Direct APK Download
 
-👉 **[⚡ Click Here to Download Latest jButterFly.apk (100.4 MB)](https://media.githubusercontent.com/media/jDroid-X/jButterfly/main/jbutterfly/jButterFly.apk)**
+👉 **[⚡ Click Here to Download Latest jButterFly.apk (Build 97 - 84.4 MB)](https://media.githubusercontent.com/media/jDroid-X/jButterfly/main/jbutterfly/jButterFly.apk)**
 
 | Package | Direct Download Link | Size | Architecture |
 | :--- | :--- | :--- | :--- |
-| **jButterFly.apk** (Latest Release) | [**Download APK (Direct Media Stream)**](https://media.githubusercontent.com/media/jDroid-X/jButterfly/main/jbutterfly/jButterFly.apk) | `100.4 MB` | Universal (`arm64-v8a`, `armeabi-v7a`, `x86_64`) |
-| **jButterFly_V1.apk** (Previous Build) | [**Download V1 APK**](https://media.githubusercontent.com/media/jDroid-X/jButterfly/main/jbutterfly/jButterFly_V1.apk) | `84.3 MB` | Universal |
+| **jButterFly.apk** (Latest - Build 97) | [**Download APK (Direct Media Stream)**](https://media.githubusercontent.com/media/jDroid-X/jButterfly/main/jbutterfly/jButterFly.apk) | `84.4 MB` | Universal (`arm64-v8a`, `armeabi-v7a`, `x86_64`) |
+| **jButterFly_V97.apk** (Build 97 Archive) | [**Download V97 APK**](https://media.githubusercontent.com/media/jDroid-X/jButterfly/main/jbutterfly/jButterFly_V97.apk) | `84.4 MB` | Universal |
+| **jButterFly_V89.apk** (Build 89 Previous) | [**Download V89 APK**](https://media.githubusercontent.com/media/jDroid-X/jButterfly/main/jbutterfly/jButterFly_V89.apk) | `84.5 MB` | Universal |
 
 ---
 
